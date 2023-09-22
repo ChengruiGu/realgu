@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-hello there
+<h1>Hello there</h1>
